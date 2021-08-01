@@ -1,0 +1,10 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+/* Стили для файла index.html */
+
+@import './root-settings.scss';
+@import './theme-switch.scss';
+@import './menu.scss';
