@@ -1,3 +1,6 @@
 /* main js file */
+
 import './sass/main.scss';
-import './js/app.js';
+
+import './js/menu-render';
+import './js/theme-controller';
